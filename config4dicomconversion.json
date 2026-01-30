@@ -1,0 +1,12 @@
+{
+    "T1": "T1w_iso0.7mm",
+    "FUNC": "GBOLD_iso2.5mm_SaveBySlc",
+    "TASK": "resting",
+    "FIELDMAP_PHASE": "GBOLD_b0fieldmap_B0Map",
+    "FIELDMAP_MAG1": "GBOLD_b0fieldmap_Echo1",
+    "FIELDMAP_MAG2": "GBOLD_b0fieldmap_Echo2",
+    "SUBJ": "SUB[0-9]+",
+    "DIR_DICOM": "/Users/yichen/Documents/MyScripts/g-bold/dcmdata",
+    "DIR_OUTPUT": "/Users/yichen/Documents/MyScripts/g-bold/SPMFolder",
+    "CMD_DCM2NIIX": "/usr/local/bin/dcm2niix22"
+}
