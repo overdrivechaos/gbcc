@@ -3,7 +3,7 @@
 Overview
 - This repository contains scripts used to process fMRI and structural DICOMs and compute globalBOLD–CSF coupling. The workflow covers DICOM→NIfTI conversion, reorientation, preprocessing (with or without field map), CSF ROI drawing, and final coupling calculation.
 - Methodology based on Fultz et al., Science 366, 628–631 (2019).
-- Tested on: macOS 26.1 MATLAB_R2025b with SPM25; Windows 10 MATLAB_R2021b with SPM12.
+- Tested on: macOS 26.1 MATLAB_R2025b with SPM25; Windows 10 MATLAB_R2021a with SPM12.
 
 Repository layout (relevant files)
 - `config4dicomconversion.json` — JSON config used by the DICOM conversion script.
