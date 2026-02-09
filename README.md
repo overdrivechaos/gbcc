@@ -8,11 +8,11 @@ Overview
 Repository layout (relevant files)
 - `config4dicomconversion.json` — JSON config used by the DICOM conversion script.
 - `gbcc_1dicomconversion.sh` / `gbcc_1dicomconversion.ps1` — DICOM to NIfTI conversion wrappers (shell and PowerShell).
-- `gbcc_2reorient.m` — Reorientation script (MATLAB).
-- `gbcc_3preproc.m` — Preprocessing including fieldmap-based correction (MATLAB).
-- `gbcc_3preproc_nofmap.m` — Preprocessing without fieldmap (MATLAB).
-- `gbcc_4csfroi.m` — Draw/extract CSF ROI masks (MATLAB).
-- `gbcc_5calccoupling.m` — Compute globalBOLD–CSF coupling from preprocessed data (MATLAB).
+- `gbcc_2reorient.p` — Reorientation script (MATLAB).
+- `gbcc_3preproc.p` — Preprocessing including fieldmap-based correction (MATLAB).
+- `gbcc_3preproc_nofmap.p` — Preprocessing without fieldmap (MATLAB).
+- `gbcc_4csfroi.p` — Draw/extract CSF ROI masks (MATLAB).
+- `gbcc_5calccoupling.p` — Compute globalBOLD–CSF coupling from preprocessed data (MATLAB).
 - `Templates/HarvardOxford-cort-maxprob-thr25-1mm.nii` — Cortical atlas used for globalBOLD extraction.
 - `SPMFolder/` - (Recommended naming) Data folder containing files during preprocessing.
 - `SPMOutput/` - (Recommended naming) Data folder containing preprocessed files essential for globalBOLD-CSF coupling calculation.
