@@ -23,6 +23,12 @@ Prerequisites
 - `dcm2niix` for DICOM→NIfTI conversion (or the platform-specific converter invoked by provided scripts).
 - For shell automation: terminal shell on macOS. For Windows: PowerShell.
 
+Tutorial/Walkthrough videos are available:
+GBCC Toolbox_1dicomconversion: https://www.bilibili.com/video/BV1XtcMzFEr9/
+GBCC Toolbox_2reorient: https://www.bilibili.com/video/BV1YxcMzhEC6/
+GBCC Toolbox_4csfroi: https://www.bilibili.com/video/BV1YxcMzhEgm/
+GBCC Toolbox_5calccoupling: https://www.bilibili.com/video/BV1VxcMzaECP/
+
 Typical workflow
 1. Prepare `dcmdata/` with subject DICOM folders (see existing structure).
 2. Edit `config4dicomconversion.json` to set any conversion options or folder paths.
