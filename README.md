@@ -25,9 +25,13 @@ Prerequisites
 
 Tutorial/Walkthrough videos are available:
 GBCC Toolbox_1dicomconversion: https://www.bilibili.com/video/BV1XtcMzFEr9/
+
 GBCC Toolbox_2reorient: https://www.bilibili.com/video/BV1YxcMzhEC6/
+
 GBCC Toolbox_4csfroi: https://www.bilibili.com/video/BV1YxcMzhEgm/
+
 GBCC Toolbox_5calccoupling: https://www.bilibili.com/video/BV1VxcMzaECP/
+
 
 Typical workflow
 1. Prepare `dcmdata/` with subject DICOM folders (see existing structure).
