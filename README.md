@@ -24,6 +24,7 @@ Prerequisites
 - For shell automation: terminal shell on macOS. For Windows: PowerShell.
 
 Tutorial/Walkthrough videos are available:
+
 GBCC Toolbox_1dicomconversion: https://www.bilibili.com/video/BV1XtcMzFEr9/
 
 GBCC Toolbox_2reorient: https://www.bilibili.com/video/BV1YxcMzhEC6/
