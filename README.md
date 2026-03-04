@@ -1,4 +1,5 @@
 # global BOLD-CSF Coupling (GBCC) Processing Scripts
+<img width="1536" height="1024" alt="gbcc" src="https://github.com/user-attachments/assets/e00beb37-5aa0-460e-b482-05e5a66b2d3a" />
 
 Overview
 - This repository contains scripts used to process fMRI and structural DICOMs and compute globalBOLD–CSF coupling. The workflow covers DICOM→NIfTI conversion, reorientation, preprocessing (with or without field map), CSF ROI drawing, and final coupling calculation.
